@@ -1,0 +1,10 @@
+type: theory
+files:
+  - name: main.py
+    visible: true
+  - name: __init__.py
+    visible: false
+  - name: your_gpt.ipynb
+    visible: true
+  - name: shakespeare.txt
+    visible: true
